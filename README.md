@@ -6,16 +6,21 @@
 ### <hr width="350">
 
 ###             😎 Skills😎 <br><br><br>
-![HTML5_logo_resized svg](https://user-images.githubusercontent.com/102819318/176640032-255da53d-1998-40e1-a3d0-470e744ce8b0.png) 
-&nbsp;&nbsp; ![CSS3_logo_and_wordmark svg](https://user-images.githubusercontent.com/102819318/176640080-627cb45f-afcb-410e-b4bf-4e09c46195a9.png)
-&nbsp;&nbsp; ![64px-Javascript-shield svg](https://user-images.githubusercontent.com/102819318/176640121-7224554d-a608-4f17-b7e9-d03356af81e2.png)
-&nbsp;&nbsp; ![bootstrap](https://user-images.githubusercontent.com/102819318/176664349-96abc4ff-94aa-402e-ae50-485e3b821620.png)
+![html5](https://user-images.githubusercontent.com/102819318/176668509-4520d7e9-6d43-470e-a2d4-a5ae7d1a2cb2.png)
+&nbsp;&nbsp; ![css (1)](https://user-images.githubusercontent.com/102819318/176668550-04e2d09e-cd5a-4fe5-97d3-893f7dc27690.png)
+&nbsp;&nbsp; ![bootstrap](https://user-images.githubusercontent.com/102819318/176668568-9dbe0d49-bc59-4a8c-b860-4aefec8fd32f.png)
+&nbsp;&nbsp; ![javascript](https://user-images.githubusercontent.com/102819318/176668592-20819297-39a2-424b-ba3f-144c7e64297b.png)
+
 
 
 ### <hr width="350">
 
 ### 📫 Contact with me: <br><br>
-### https://www.linkedin.com/in/ozan-ta%C5%9Fci-075983224/
+
+<a href= "https://www.linkedin.com/in/ozan-ta%C5%9Fci-075983224">
+<img src = "https://user-images.githubusercontent.com/102819318/176668182-e5ba92f1-8ebd-47b1-82b4-f58b4dc47edc.png"><a/>  
+
+
 
 
 
