@@ -1,4 +1,4 @@
-<img src= "https://user-images.githubusercontent.com/102819318/176635295-72e966d9-517a-451f-ad6c-7e628da7e280.gif" align="right" width="480" height="395">
+<img src= "https://user-images.githubusercontent.com/102819318/176635295-72e966d9-517a-451f-ad6c-7e628da7e280.gif" align="right" width="480" height="380">
 
 ### Hi there 👋
 ### I'm Ozan.
