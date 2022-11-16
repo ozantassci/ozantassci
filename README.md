@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 ### I'm Ozan.
-### 🌱 I’m currently learning Javascript
 ### <hr width="350">
 
 ###             😎 Skills😎 <br><br><br>
@@ -10,6 +9,9 @@
 &nbsp;&nbsp; ![css (1)](https://user-images.githubusercontent.com/102819318/176668550-04e2d09e-cd5a-4fe5-97d3-893f7dc27690.png)
 &nbsp;&nbsp; ![bootstrap](https://user-images.githubusercontent.com/102819318/176668568-9dbe0d49-bc59-4a8c-b860-4aefec8fd32f.png)
 &nbsp;&nbsp; ![javascript](https://user-images.githubusercontent.com/102819318/176668592-20819297-39a2-424b-ba3f-144c7e64297b.png)
+![typescript](https://user-images.githubusercontent.com/102819318/202156412-a253504a-0725-48e0-aedd-0213b9795f62.png)
+![react](https://user-images.githubusercontent.com/102819318/202156361-828ff687-78f9-41d1-a72a-bbb74accc671.png)
+![angular](https://user-images.githubusercontent.com/102819318/202156484-ecc37dcc-0aa1-4456-844a-b3279fc5edeb.png)
 
 
 
