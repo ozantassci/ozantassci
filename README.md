@@ -12,7 +12,7 @@
 ![typescript](https://user-images.githubusercontent.com/102819318/202156412-a253504a-0725-48e0-aedd-0213b9795f62.png)
 ![angular](https://user-images.githubusercontent.com/102819318/202156484-ecc37dcc-0aa1-4456-844a-b3279fc5edeb.png)
 
-
+![react](https://user-images.githubusercontent.com/102819318/202156700-d1c2a60f-c1f3-4393-99c6-c0ee79362c8b.png)
 
 ### <hr width="350">
 
